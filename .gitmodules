@@ -1,0 +1,42 @@
+[submodule "puppet/modules/mysql"]
+	path = puppet/modules/mysql
+	url = https://github.com/example42/puppet-mysql
+[submodule "puppet/modules/nginx"]
+	path = puppet/modules/nginx
+	url = https://github.com/netmanagers/puppet-nginx.git
+[submodule "puppet/modules/apt"]
+	path = puppet/modules/apt
+	url = https://github.com/puppetlabs/puppetlabs-apt.git
+[submodule "puppet/modules/stdlib"]
+	path = puppet/modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "puppet/modules/pear"]
+	path = puppet/modules/pear
+	url = https://github.com/rafaelfelix/puppet-pear.git
+[submodule "puppet/modules/php"]
+	path = puppet/modules/php
+	url = https://github.com/saz/puppet-php.git
+[submodule "puppet/modules/firewall"]
+	path = puppet/modules/firewall
+	url = https://github.com/puppetlabs/puppetlabs-firewall.git
+[submodule "puppet/modules/sshd"]
+	path = puppet/modules/sshd
+	url = https://github.com/duritong/puppet-sshd.git
+[submodule "puppet/modules/sudo"]
+	path = puppet/modules/sudo
+	url = https://github.com/saz/puppet-sudo.git
+[submodule "puppet/modules/puppi"]
+	path = puppet/modules/puppi
+	url = git@github.com:example42/puppi.git
+[submodule "puppet/modules/nodejs"]
+	path = puppet/modules/nodejs
+	url = git://github.com/willdurand/puppet-nodejs.git
+[submodule "puppet/modules/wget"]
+	path = puppet/modules/wget
+	url = git://github.com/maestrodev/puppet-wget.git
+[submodule "puppet/modules/redis"]
+	path = puppet/modules/redis
+	url = git@github.com:example42/puppet-redis.git
+[submodule "puppet/modules/rvm"]
+	path = puppet/modules/rvm
+	url = git@github.com:maestrodev/puppet-rvm.git

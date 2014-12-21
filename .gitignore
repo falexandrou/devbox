@@ -1,0 +1,5 @@
+# Vagrantfile
+.vagrant.d/
+.vagrant
+.DS_Store
+npm-debug.log
